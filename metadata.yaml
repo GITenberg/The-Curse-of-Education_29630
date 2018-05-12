@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '34046'
     url: http://www.gutenberg.org/2009/agents/34046
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29630#The-Curse-of-Education
 gutenberg_issued: '2009-08-07'
 gutenberg_type: Text
 identifiers:
